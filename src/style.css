@@ -1,0 +1,32 @@
+.home {
+    text-align: center;
+}
+
+.page {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.card {
+    border-color: black;
+    border-radius: 5px;
+    border-width: thick;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-height: 150px;
+}
+
+@media screen and (max-width: 500px) {
+    .nav-item {
+        display: block;
+        text-align: center;
+    }
+}
