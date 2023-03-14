@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
     return (
-        <div className='home'>
+        <div className='home page'>
             <h2 className='page-header'>Welcome to my portfolio!</h2>
             <img className='profile-image' />
             <p>Hi! My name is Miles and I am a junior full-stack developer who has recently completed Monash University's full-stack development bootcamp and is looking to enter the industry. I am experienced in multiple configurations of HTML, CSS and JavaScript and have developed entirely front end applications, applications utilizing the MERN stack format and apps that use MySQL databases with Handlebars used to create the front end. </p>

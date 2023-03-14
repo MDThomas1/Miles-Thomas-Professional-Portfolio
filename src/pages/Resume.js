@@ -13,7 +13,7 @@ const Resume = () => {
     ]
 
     return (
-        <div className='resume'>
+        <div className='resume page'>
             <h2>Resume</h2>
             <div className='resume-content'>
                 <div className='resume-div'>
