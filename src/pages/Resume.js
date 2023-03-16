@@ -27,15 +27,15 @@ const Resume = () => {
                     </ul>
                 </div>
                 <div className='resume-div'>
-                    <h3>Education</h3>
-                    {educationData.map((education) => {
-                        <ResumeCard name={education.name} body={education.body} />
-                    })}
-                </div>
-                <div className='resume-div'>
                     <h3>Experience</h3>
                     {experienceData.map((experience) => {
                         <ResumeCard name={experience.name} body={experience.body} />
+                    })}
+                </div>
+                <div className='resume-div'>
+                    <h3>Education</h3>
+                    {educationData.map((education) => {
+                        <ResumeCard name={education.name} body={education.body} />
                     })}
                 </div>
             </div>
