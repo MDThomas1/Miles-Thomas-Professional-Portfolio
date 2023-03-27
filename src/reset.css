@@ -24,3 +24,8 @@ p, a {
 li {
     font-size: 14px;
 }
+
+ol,
+ul {
+    list-style: none;
+}
