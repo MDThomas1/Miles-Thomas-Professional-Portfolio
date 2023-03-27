@@ -61,15 +61,15 @@ const Resume = () => {
                 </div>
                 <div className='resume-div border-bottom'>
                     <h3>Experience</h3>
-                    {experienceData.map((experience) => {
+                    {experienceData.map((experience) => (
                         <ResumeCard heading={experience.heading} subheading={experience.subheading} pointone={experience.pointone} pointtwo={experience.pointtwo} pointthree={experience.pointthree} />
-                    })}
+                    ))}
                 </div>
                 <div className='resume-div'>
                     <h3>Education</h3>
-                    {educationData.map((education) => {
+                    {educationData.map((education) => (
                         <ResumeCard heading={education.heading} subheading={education.subheading} pointone={education.pointone} pointtwo={education.pointtwo} pointthree={education.pointthree} />
-                    })}
+                    ))}
                 </div>
             </div>
         </div>
