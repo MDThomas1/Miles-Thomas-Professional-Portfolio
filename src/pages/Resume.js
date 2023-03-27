@@ -65,7 +65,7 @@ const Resume = () => {
                         <ResumeCard heading={experience.heading} subheading={experience.subheading} pointone={experience.pointone} pointtwo={experience.pointtwo} pointthree={experience.pointthree} />
                     })}
                 </div>
-                <div className='resume-div'>
+                <div>
                     <h3>Education</h3>
                     {educationData.map((education) => {
                         <ResumeCard heading={education.heading} subheading={education.subheading} pointone={education.pointone} pointtwo={education.pointtwo} pointthree={education.pointthree} />
