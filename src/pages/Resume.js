@@ -6,18 +6,18 @@ const Resume = () => {
 
     const experienceData = [
         {
-            heading: 'Room 10 Media - Video Editor',
-            subheading: 'March 2022 - April 2022',
-            pointone: 'Worked in Adobe Premiere Pro to create videos for podcasts.',
-            pointtwo: 'Learned Premiere Pro in a short amount of time, allowing for maximum efficiency.',
-            pointthree: 'Was always flexible with availability due to not working on a strict schedule'
-        },
-        {
             heading: 'Dom Brinkley Band - Bass Player',
             subheading: 'Since January 2021',
             pointone: 'Latest of multiple bands I have played in.',
             pointtwo: 'Always working with and meeting new people.',
             pointthree: 'Regularly testing creativity with a diverse range of inspirations.'
+        },
+        {
+            heading: 'Room 10 Media - Video Editor',
+            subheading: 'March 2022 - April 2022',
+            pointone: 'Worked in Adobe Premiere Pro to create videos for podcasts.',
+            pointtwo: 'Learned Premiere Pro in a short amount of time, allowing for maximum efficiency.',
+            pointthree: 'Was always flexible with availability due to not working on a strict schedule'
         }
     ]
 
