@@ -58,8 +58,12 @@ p {
     background-color: black;
 }
 
-.nav-link {
+.nav-item {
     display: inline-block;
+    margin: 10px;
+}
+
+.nav-link {
     margin: 10px;
     color: ghostwhite;
 }
