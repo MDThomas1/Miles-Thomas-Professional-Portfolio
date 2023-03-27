@@ -25,7 +25,8 @@ p {
     background-color: darkgreen;
 }
 
-.home {
+.home,
+.footer {
     text-align: center;
 }
 
