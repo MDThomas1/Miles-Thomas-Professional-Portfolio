@@ -2,6 +2,13 @@ import React from 'react'
 
 import ProjectCard from '../components/ProjectCard'
 
+import Password from '../images/password.png'
+import Planner from '../images/planner.png'
+import Quiz from '../images/quiz.png'
+import Readme from '../images/readme.png'
+import SocialMedia from '../images/social-media.png'
+import Weather from '../images/weather.png'
+
 const Projects = () => {
     
     const projectData = [
