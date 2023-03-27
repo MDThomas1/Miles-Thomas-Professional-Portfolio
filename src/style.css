@@ -1,5 +1,37 @@
+body {
+    background-color: ghostwhite;
+}
+
+h1 {
+    margin-top: 7%;
+    margin-left: 15%;
+}
+
+h2 {
+    text-decoration: underline;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.header {
+    height: 50px;
+    color: ghostwhite;
+    background-color: darkgreen;
+}
+
 .home {
     text-align: center;
+}
+
+.profile-image {
+    border-color: black;
+    max-height: 200px;
+    border-width: thick;
 }
 
 .page {
@@ -16,13 +48,48 @@
 }
 
 .card img {
-    margin-top: 10px;
-    margin-bottom: 10px;
     border-radius: 2px;
-    margin-left: 10%;
-    margin-right: 10%;
     max-height: 150px;
 }
+
+.navbar {
+    background-color: black;
+}
+
+.nav-link {
+    display: inline-block;
+    margin: 10px;
+    color: ghostwhite;
+}
+
+.resume-div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.border-bottom {
+    border-bottom-width: thin;
+    border-bottom-color: black;
+    border-bottom-style: dashed;
+}
+
+.nav-link:hover {
+    text-shadow: 0 0 5px ghostwhite;
+}
+
+.project-name,
+.project-description {
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+
+.resume-heading,
+.resume-subheading {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+
 
 @media screen and (max-width: 500px) {
     .nav-item {
