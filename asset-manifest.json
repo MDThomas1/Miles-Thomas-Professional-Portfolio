@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Miles-Thomas-Professional-Portfolio/static/css/main.e395bb6e.chunk.css",
+    "main.js": "/Miles-Thomas-Professional-Portfolio/static/js/main.51ed9cbd.chunk.js",
+    "main.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/main.51ed9cbd.chunk.js.map",
+    "runtime-main.js": "/Miles-Thomas-Professional-Portfolio/static/js/runtime-main.7bcbf187.js",
+    "runtime-main.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/runtime-main.7bcbf187.js.map",
+    "static/js/2.3b20bb5f.chunk.js": "/Miles-Thomas-Professional-Portfolio/static/js/2.3b20bb5f.chunk.js",
+    "static/js/2.3b20bb5f.chunk.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/2.3b20bb5f.chunk.js.map",
+    "index.html": "/Miles-Thomas-Professional-Portfolio/index.html",
+    "static/css/main.e395bb6e.chunk.css.map": "/Miles-Thomas-Professional-Portfolio/static/css/main.e395bb6e.chunk.css.map",
+    "static/js/2.3b20bb5f.chunk.js.LICENSE.txt": "/Miles-Thomas-Professional-Portfolio/static/js/2.3b20bb5f.chunk.js.LICENSE.txt",
+    "static/media/password.7c37c30e.png": "/Miles-Thomas-Professional-Portfolio/static/media/password.7c37c30e.png",
+    "static/media/planner.3c340e75.png": "/Miles-Thomas-Professional-Portfolio/static/media/planner.3c340e75.png",
+    "static/media/profile.f105b5aa.jpg": "/Miles-Thomas-Professional-Portfolio/static/media/profile.f105b5aa.jpg",
+    "static/media/quiz.7882c161.png": "/Miles-Thomas-Professional-Portfolio/static/media/quiz.7882c161.png",
+    "static/media/readme.6672e919.png": "/Miles-Thomas-Professional-Portfolio/static/media/readme.6672e919.png",
+    "static/media/social-media.b3be3601.png": "/Miles-Thomas-Professional-Portfolio/static/media/social-media.b3be3601.png",
+    "static/media/weather.6c0d9180.png": "/Miles-Thomas-Professional-Portfolio/static/media/weather.6c0d9180.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bcbf187.js",
+    "static/js/2.3b20bb5f.chunk.js",
+    "static/css/main.e395bb6e.chunk.css",
+    "static/js/main.51ed9cbd.chunk.js"
+  ]
+}
