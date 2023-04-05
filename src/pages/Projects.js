@@ -16,29 +16,29 @@ const Projects = () => {
             name: 'Javascript Fundamentals Quiz',
             image: Quiz,
             description: 'A brief quiz about some fundamental concepts relating to JavaScript.',
-            url: 'https://mdthomas1.github.io/Miles-Thomas-homework-task-4/',
-            github: 'https://github.com/MDThomas1/Miles-Thomas-homework-task-4'
+            url: 'https://mdthomas1.github.io/Miles-Thomas-Javascript-Quiz/',
+            github: 'https://github.com/MDThomas1/Miles-Thomas-Javascript-Quiz'
         },
         {
             name: 'Work Day Schedular',
             image: Planner,
             description: 'An interactive daily planner using local storage with added display of the current date.',
-            url: 'https://mdthomas1.github.io/Miles-Thomas-homework-task-5/',
-            github: 'https://github.com/MDThomas1/Miles-Thomas-homework-task-5'
+            url: 'https://mdthomas1.github.io/Miles-Thomas-Daily-Planner-App/',
+            github: 'https://github.com/MDThomas1/Miles-Thomas-Daily-Planner-App'
         },
         {
             name: 'Javascript Password Generator',
             image: Password,
             description: 'A password generator that lets you specify the password length and the types of characters you want to include in it.',
-            url: 'https://mdthomas1.github.io/Miles-Thomas-homework-task-3/',
-            github: 'https://github.com/MDThomas1/Miles-Thomas-homework-task-3'
+            url: 'https://mdthomas1.github.io/Miles-Thomas-Password-Generator/',
+            github: 'https://github.com/MDThomas1/Miles-Thomas-Password-Generator'
         },
         {
             name: 'Weather Dashboard',
             image: Weather,
             description: 'A weather tracker application that uses Open Weather API to display the current weather of a searched city.',
-            url: 'https://mdthomas1.github.io/Miles-Thomas-homework-task-6/',
-            github: 'https://github.com/MDThomas1/Miles-Thomas-homework-task-6'
+            url: 'https://mdthomas1.github.io/Miles-Thomas-Forecast-App/',
+            github: 'https://github.com/MDThomas1/Miles-Thomas-Forecast-App'
         },
         {
             name: 'Node README Generator',
