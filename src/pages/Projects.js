@@ -27,13 +27,6 @@ const Projects = () => {
             github: 'https://github.com/MDThomas1/Miles-Thomas-Daily-Planner-App'
         },
         {
-            name: 'Javascript Password Generator',
-            image: Password,
-            description: 'A password generator that lets you specify the password length and the types of characters you want to include in it.',
-            url: 'https://mdthomas1.github.io/Miles-Thomas-Password-Generator/',
-            github: 'https://github.com/MDThomas1/Miles-Thomas-Password-Generator'
-        },
-        {
             name: 'Weather Dashboard',
             image: Weather,
             description: 'A weather tracker application that uses Open Weather API to display the current weather of a searched city.',
