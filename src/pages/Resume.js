@@ -72,7 +72,7 @@ const Resume = () => {
                     ))}
                 </div>
                 <div className='resume-div link-div'>
-                    <p className='resume-link'>If you'd like to see more, a downloadable copy of my resume is available by following <a>this link</a>.</p>
+                    <p className='resume-link'>If you'd like to see more, a downloadable copy of my resume is available by following <a href='https://docs.google.com/document/d/1ako-xs4fxZT7vzMgSk3qRHYfx1-74-dJzbrRlSQt1jw/edit?usp=sharing'>this link</a>.</p>
                 </div>
             </div>
         </div>
