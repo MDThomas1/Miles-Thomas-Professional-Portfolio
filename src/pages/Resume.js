@@ -65,11 +65,14 @@ const Resume = () => {
                         <ResumeCard heading={experience.heading} subheading={experience.subheading} pointone={experience.pointone} pointtwo={experience.pointtwo} pointthree={experience.pointthree} />
                     ))}
                 </div>
-                <div className='resume-div'>
+                <div className='resume-div border-bottom'>
                     <h3>Education</h3>
                     {educationData.map((education) => (
                         <ResumeCard heading={education.heading} subheading={education.subheading} pointone={education.pointone} pointtwo={education.pointtwo} pointthree={education.pointthree} />
                     ))}
+                </div>
+                <div className='resume-div link-div'>
+                    <p className='resume-link'>If you'd like to see more, a downloadable copy of my resume is available by following <a>this link</a>.</p>
                 </div>
             </div>
         </div>

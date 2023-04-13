@@ -24,7 +24,8 @@ p {
     text-align: center;
 }
 
-.home {
+.home,
+.link-div {
     text-align: center;
 }
 
@@ -96,7 +97,10 @@ p {
     margin-bottom: 4px;
 }
 
-
+.resume-link {
+    margin-top: 15px;
+    margin-top: 15px;
+}
 
 @media screen and (max-width: 500px) {
     .nav-item {
