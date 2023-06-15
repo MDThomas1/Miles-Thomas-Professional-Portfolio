@@ -6,6 +6,13 @@ const Resume = () => {
 
     const experienceData = [
         {
+            heading: 'Code Camp - Teaching Assistant/After School Facilitator',
+            subheading: 'Since May 2023',
+            pointone: 'Teaching primary school aged kids basic JavaScript through making video games.',
+            pointtwo: 'Worked at various locations throughout South East Melbourne.',
+            pointthree: 'Require patience and a strong understanding of JavaScript principles in order to properly explain in an understandable way for kids.'
+        },
+        {
             heading: 'Dom Brinkley Band - Bass Player',
             subheading: 'Since January 2021',
             pointone: 'Latest of multiple bands I have played in.',
