@@ -12,7 +12,7 @@ A simple portfolio made using react that contains projects I have made and a res
 * [License](#License)
 
 ## Link to Deployed Site
-https://mdthomas1.github.io/Miles-Thomas-Professional-Portfolio/
+TBA
 
 ## Screenshot of Deployed Site
 <img src=./src/images/main-screenshot.png>
