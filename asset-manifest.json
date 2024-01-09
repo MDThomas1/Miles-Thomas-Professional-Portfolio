@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/Miles-Thomas-Professional-Portfolio/static/css/main.16e33e44.chunk.css",
-    "main.js": "/Miles-Thomas-Professional-Portfolio/static/js/main.4c3c355f.chunk.js",
-    "main.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/main.4c3c355f.chunk.js.map",
-    "runtime-main.js": "/Miles-Thomas-Professional-Portfolio/static/js/runtime-main.7bcbf187.js",
-    "runtime-main.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/runtime-main.7bcbf187.js.map",
-    "static/js/2.3b20bb5f.chunk.js": "/Miles-Thomas-Professional-Portfolio/static/js/2.3b20bb5f.chunk.js",
-    "static/js/2.3b20bb5f.chunk.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/2.3b20bb5f.chunk.js.map",
+    "main.css": "/Miles-Thomas-Professional-Portfolio/static/css/main.7d394f32.css",
+    "main.js": "/Miles-Thomas-Professional-Portfolio/static/js/main.e6105bcd.js",
+    "static/media/readme.png": "/Miles-Thomas-Professional-Portfolio/static/media/readme.6672e91991e3f9ad17c5.png",
+    "static/media/social-media.png": "/Miles-Thomas-Professional-Portfolio/static/media/social-media.b3be3601893bd6250d9d.png",
+    "static/media/profile.jpg": "/Miles-Thomas-Professional-Portfolio/static/media/profile.f105b5aa098611817b27.jpg",
+    "static/media/weather.png": "/Miles-Thomas-Professional-Portfolio/static/media/weather.6c0d91808157b7d70da1.png",
+    "static/media/planner.png": "/Miles-Thomas-Professional-Portfolio/static/media/planner.3c340e7504ee91b175b5.png",
+    "static/media/quiz.png": "/Miles-Thomas-Professional-Portfolio/static/media/quiz.7882c16192be5c57776f.png",
+    "static/media/password.png": "/Miles-Thomas-Professional-Portfolio/static/media/password.7c37c30e8e82ad4e5114.png",
     "index.html": "/Miles-Thomas-Professional-Portfolio/index.html",
-    "static/css/main.16e33e44.chunk.css.map": "/Miles-Thomas-Professional-Portfolio/static/css/main.16e33e44.chunk.css.map",
-    "static/js/2.3b20bb5f.chunk.js.LICENSE.txt": "/Miles-Thomas-Professional-Portfolio/static/js/2.3b20bb5f.chunk.js.LICENSE.txt",
-    "static/media/password.7c37c30e.png": "/Miles-Thomas-Professional-Portfolio/static/media/password.7c37c30e.png",
-    "static/media/planner.3c340e75.png": "/Miles-Thomas-Professional-Portfolio/static/media/planner.3c340e75.png",
-    "static/media/profile.f105b5aa.jpg": "/Miles-Thomas-Professional-Portfolio/static/media/profile.f105b5aa.jpg",
-    "static/media/quiz.7882c161.png": "/Miles-Thomas-Professional-Portfolio/static/media/quiz.7882c161.png",
-    "static/media/readme.6672e919.png": "/Miles-Thomas-Professional-Portfolio/static/media/readme.6672e919.png",
-    "static/media/social-media.b3be3601.png": "/Miles-Thomas-Professional-Portfolio/static/media/social-media.b3be3601.png",
-    "static/media/weather.6c0d9180.png": "/Miles-Thomas-Professional-Portfolio/static/media/weather.6c0d9180.png"
+    "main.7d394f32.css.map": "/Miles-Thomas-Professional-Portfolio/static/css/main.7d394f32.css.map",
+    "main.e6105bcd.js.map": "/Miles-Thomas-Professional-Portfolio/static/js/main.e6105bcd.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bcbf187.js",
-    "static/js/2.3b20bb5f.chunk.js",
-    "static/css/main.16e33e44.chunk.css",
-    "static/js/main.4c3c355f.chunk.js"
+    "static/css/main.7d394f32.css",
+    "static/js/main.e6105bcd.js"
   ]
 }
