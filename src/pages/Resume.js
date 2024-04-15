@@ -6,6 +6,13 @@ const Resume = () => {
 
     const experienceData = [
         {
+            heading: 'Collarts (Australian College of the Arts) - Campus Supervisor',
+            subheading: 'Since February 2024',
+            pointone: 'Handle student inquiries and day-to-day campus operations.',
+            pointtwo: 'Requires working on a flexible schedule for both day and night shifts.',
+            pointthree: 'Involves keeping a level head and being ready for both rushes and calm periods.'
+        },
+        {
             heading: 'Code Camp - Teaching Assistant/After School Facilitator',
             subheading: 'Since May 2023',
             pointone: 'Teaching primary school aged kids basic JavaScript through making video games.',
