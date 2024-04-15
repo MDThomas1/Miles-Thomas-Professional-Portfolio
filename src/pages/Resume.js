@@ -62,6 +62,7 @@ const Resume = () => {
     return (
         <div className='resume page'>
             <h2 className='page-header'>Resume</h2>
+            <p className='page-header'>Below is a snippet of my professional resume including my education, my experience and the coding formats I am familiar with.</p>
             <div>
                 <div className='resume-div border-bottom'>
                     <h3>Skills:</h3>
