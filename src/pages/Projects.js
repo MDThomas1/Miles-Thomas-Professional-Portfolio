@@ -51,7 +51,7 @@ const Projects = () => {
 
     return (
         <div className='projects page'>
-            <h2 className='page-heading'>Projects</h2>
+            <h2 className='page-header'>Projects</h2>
             <p>Here you will find a short list of some of the projects that I have made, both on my own or as part of a group. Links to a deployed site as well as a github repository are provided, along with a short description relating to each project.</p>
             <div className='list'>
                 {projectData.map((project) => (
