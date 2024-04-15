@@ -102,6 +102,10 @@ p {
     margin-top: 15px;
 }
 
+.page-header {
+    text-align: center;
+}
+
 @media screen and (max-width: 500px) {
     .nav-item {
         display: block;

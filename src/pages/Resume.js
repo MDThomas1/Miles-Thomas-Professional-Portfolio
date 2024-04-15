@@ -61,7 +61,7 @@ const Resume = () => {
 
     return (
         <div className='resume page'>
-            <h2>Resume</h2>
+            <h2 className='page-header'>Resume</h2>
             <div>
                 <div className='resume-div border-bottom'>
                     <h3>Skills:</h3>
